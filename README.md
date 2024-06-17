@@ -1,5 +1,5 @@
 # HumanILC1
-*Seurat objects
+* Seurat objects
 
 This repository contains the Seurat objets pertaining to the publication "Tissue diversity of group 1 innate lymphoid cells", by Jaeger & Ulezko Antonova et al. 
 
