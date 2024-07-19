@@ -1,9 +1,7 @@
 # HumanILC1
-* Seurat objects
+* The Seurat .rds objects can be downloaded from Zenodo: https://zenodo.org/records/12785955 
 
-This repository contains the Seurat objets pertaining to the publication "Tissue diversity of group 1 innate lymphoid cells", by Jaeger & Ulezko Antonova et al. 
-
-For the Seurat objects, the nomenclature used in the manuscript can be found under the metadata slot “final_nomenclature” for all objects except for Figure 5a. For Figure 5a, the metadata slots are as follow:
+The cluster nomenclature used in the manuscript can be found under the metadata slot “final_nomenclature” for all objects except for Figure 5a. For Figure 5a, the metadata slots are as follow:
 
   *   5a: “chief_tissue”
   *   5b: “chief”
