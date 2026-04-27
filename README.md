@@ -1,6 +1,6 @@
 # HumanILC1
-
-Jaeger, N., Antonova, A.U., Kreisel, D. et al. Diversity of group 1 innate lymphoid cells in human tissues. Nat Immunol (2024). https://doi.org/10.1038/s41590-024-01885-y
+This is the repository for the following publication:
+*Jaeger, N., Antonova, A.U., Kreisel, D. et al. Diversity of group 1 innate lymphoid cells in human tissues. Nat Immunol (2024). https://doi.org/10.1038/s41590-024-01885-y*
 
 The Seurat objects can be downloaded from Zenodo: https://zenodo.org/records/12785955. 
 
